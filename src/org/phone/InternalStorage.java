@@ -14,6 +14,10 @@ public static void main(String[] args) {
 	p.ramSize();
 	v.size();
 	
+	
+	System.out.println("gowreesh");
+	System.out.println("data inserted....");
+	
 	System.out.println("Data merged...");
 	System.out.println("data inserted again...");
 	
